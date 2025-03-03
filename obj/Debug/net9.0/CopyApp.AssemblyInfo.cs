@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CopyApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67a47f9025207deab8b000f1a2959a7535f2377b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2421a1585a5a1cfc8744b9598a8f54f9e28e43d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CopyApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CopyApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
