@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xn6soDozgbY=",
+  "dgSpecHash": "tDH+uxl/llM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andrija\\Documents\\WebApp\\CopyApp\\CopyApp.csproj",
+  "projectFilePath": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\CopyApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andrija\\.nuget\\packages\\auth0.aspnetcore.authentication\\1.4.1\\auth0.aspnetcore.authentication.1.4.1.nupkg.sha512",
     "C:\\Users\\andrija\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
