@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\andrija\\Documents\\CopyApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\views\\orders\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:views\\orders\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\data\\copyappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:data\\copyappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -45,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D11730AB-B9C8-45EA-BEC0-A3493B6DCB0F}|CopyApp.csproj|c:\\users\\andrija\\documents\\copyapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,63 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\andrija\\Documents\\CopyApp\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T12:39:20.303Z",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\andrija\\Documents\\CopyApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T13:31:52.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\Models\\Repository.cs",
-              "RelativeDocumentMoniker": "Models\\Repository.cs",
-              "ToolTip": "C:\\Users\\andrija\\Documents\\CopyApp\\Models\\Repository.cs",
-              "RelativeToolTip": "Models\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T15:25:35.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Document.cs",
-              "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\Models\\Document.cs",
-              "RelativeDocumentMoniker": "Models\\Document.cs",
-              "ToolTip": "C:\\Users\\andrija\\Documents\\CopyApp\\Models\\Document.cs",
-              "RelativeToolTip": "Models\\Document.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T00:18:23.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\andrija\\Documents\\CopyApp\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-18T23:50:09.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "CopyAppContext.cs",
               "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\Data\\CopyAppContext.cs",
               "RelativeDocumentMoniker": "Data\\CopyAppContext.cs",
@@ -135,28 +89,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Overview.cshtml",
-              "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\Views\\Orders\\Overview.cshtml",
-              "RelativeDocumentMoniker": "Views\\Orders\\Overview.cshtml",
-              "ToolTip": "C:\\Users\\andrija\\Documents\\CopyApp\\Views\\Orders\\Overview.cshtml",
-              "RelativeToolTip": "Views\\Orders\\Overview.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andrija\\Documents\\CopyApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T19:02:57.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\andrija\\Documents\\CopyApp\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T17:48:54.913Z",
+              "WhenOpened": "2025-02-15T15:55:10.064Z",
               "EditorCaption": ""
             },
             {
@@ -167,7 +108,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\andrija\\Documents\\CopyApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T15:55:27.255Z",
               "EditorCaption": ""
@@ -175,19 +116,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "C:\\Users\\andrija\\Documents\\CopyApp\\Models\\Order.cs",
-              "RelativeToolTip": "Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T17:39:13.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -200,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -213,33 +141,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\andrija\\Documents\\CopyApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T15:55:10.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\andrija\\Documents\\CopyApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T15:53:58.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\andrija\\Documents\\CopyApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
