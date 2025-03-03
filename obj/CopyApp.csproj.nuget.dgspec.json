@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andrija\\Documents\\CopyApp\\CopyApp.csproj": {}
+    "C:\\Users\\andrija\\Documents\\WebApp\\CopyApp\\CopyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andrija\\Documents\\CopyApp\\CopyApp.csproj": {
+    "C:\\Users\\andrija\\Documents\\WebApp\\CopyApp\\CopyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andrija\\Documents\\CopyApp\\CopyApp.csproj",
+        "projectUniqueName": "C:\\Users\\andrija\\Documents\\WebApp\\CopyApp\\CopyApp.csproj",
         "projectName": "CopyApp",
-        "projectPath": "C:\\Users\\andrija\\Documents\\CopyApp\\CopyApp.csproj",
+        "projectPath": "C:\\Users\\andrija\\Documents\\WebApp\\CopyApp\\CopyApp.csproj",
         "packagesPath": "C:\\Users\\andrija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andrija\\Documents\\CopyApp\\obj\\",
+        "outputPath": "C:\\Users\\andrija\\Documents\\WebApp\\CopyApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

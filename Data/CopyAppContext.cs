@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using CopyApp.Models;
 
 namespace CopyApp.Data
 {
@@ -14,8 +13,5 @@ namespace CopyApp.Data
         {
             optionsBuilder.UseNpgsql(configuration.GetConnectionString("CopyAppDBConnection"));
         }
-
-        public DbSet<Order> Orders { get; set; }
-        public DbSet<Document> Documents { get; set; }
     }
 }
