@@ -1,0 +1,53 @@
+Program.cs
+
+WebApplication.CreateBuilder(args) -> creates an instance of the WebApplicationBuilder class which sets up the configuration, services and web server
+
+builder.Services.AddControllersWithViews() -> this allows our application to handle incoming HTTP requests and render HTML views
+
+var app = builder.Build() -> this creates a web application instance
+
+configuring the HTTP requests pipeline - determines how HTTP requests are processed by the app
+
+hsts - http strict transport security - enforces secure HTTPS connections
+
+app.UseHttpsRedirection() - ensures HTTP requests are redirected to HTTP
+
+app.UseRouting() - enables routing which enables the app to match incoming requests to the appropriate endpoint
+
+app.UseAuthorization() - responsible for authorizing users to access secured resources
+
+app.MapStaticAssets() - enables serving static files such as images, CSS and JavaScript from the wwwroot folder
+
+app.MapControllerRoute() - maps the default route for the MVC application; this sets up the default rout patter which maps to the home controller and its index action method by default; the ID parameter is optional; this is the default route we will be redirected to when we start the application
+- every URL is actually assumed to have this pattern
+-> controller, then method of that controller which is actually called an action in asp.net core
+- let's say a request is made to a URL called /items/overview; our application will try to call an action called overview inside an items controller
+
+app.Run() - starts the web application and begins listening for HTTP requests
+
+---------------------
+
+cshtml files - used to render html to the client
+
+_Layout.cshtml - default design for all pages
+_ValidationScriptsPartila.csthml - contains client-side validation scripts
+
+Home folder - contains views related to the home controller
+
+wwwroot folder is the root for the application static files like CSS, JavaScript, images and other assets
+
+site.css and site.js files are default files included for your custom styles and scripts
+
+appsettings.json - main configuration file for the application
+- it contains settings such as connection strings and app-specific configurations
+
+launchSettings.json - contains settings related to how the application is launched during development
+
+-------------------------
+
+IActionResult is a contract that defines all the different kinds of results that an action can return to the user
+
+action parameters are a way for actions to receive input data; this input data can come from different sources such as URL segments, query strings, form submissions or a combination
+
+context is a bridge that connects our project with the database
+- enables us to fetch, filter and modify data from the database
