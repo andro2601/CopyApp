@@ -8,10 +8,10 @@ namespace CopyApp.Models
     {
         [Key]
         public int Id { get; set; }
-        [StringLength(255)]
+        [StringLength(100)]
         [Required(ErrorMessage = "Document title attribute missing")]
         public string? Title { get; set; }
-        [StringLength(127)]
+        [StringLength(100)]
         [Required(ErrorMessage = "Document author attribute missing")]
         public string? Author { get; set; }
 
