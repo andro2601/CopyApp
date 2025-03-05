@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using CopyApp.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CopyApp.Controllers
@@ -28,5 +29,12 @@ namespace CopyApp.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        [Authorize(Roles = "Admin")]
+        public IActionResult AdminDashboard()
+        {
+            return View();
+        }
+
     }
 }

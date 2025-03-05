@@ -10,3 +10,7 @@ Testing DB info:
 -> Database: copyappdb
 -> Username: andrija
 -> Password: g8OVeCEYE4vJV6Lj6QYN4enubKGh9tuT
+
+Možete i lokalno testirat (VS ili VSCode) na https://localhost:7010
+
+Glavni branch nije main nego master !!!

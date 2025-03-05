@@ -1,4 +1,5 @@
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
@@ -7,6 +8,7 @@ C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\di
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
@@ -18,6 +20,7 @@ C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\di
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\jquery\dist\jquery.min.map
@@ -36,6 +39,7 @@ C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\di
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
@@ -53,6 +57,7 @@ C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\di
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\jquery-validation\LICENSE.md
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
@@ -60,6 +65,7 @@ C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\di
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\jquery-validation\dist\additional-methods.js
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
 C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\andrija\Documents\CopyApp patrikov kum\CopyApp\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
@@ -87,6 +93,10 @@ wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
@@ -122,4 +132,6 @@ wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt

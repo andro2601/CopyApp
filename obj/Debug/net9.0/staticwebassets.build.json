@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1C/pnJ4SPPQw10kyLRaGk/Gz2cLVjJKZ4ZDmE14Oe0M=",
+  "Hash": "2IgYBD86/5G0j1Mn+wqwv/2+xRTodJaujtOdQ2unkdQ=",
   "Source": "CopyApp",
   "BasePath": "_content/CopyApp",
   "Mode": "Default",
@@ -36,6 +36,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\1jpm2l8ppm-kfyfhdxh97.gz",
+      "SourceId": "CopyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CopyApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min.css#[.{fingerprint=kfyfhdxh97}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dubpw7gp9b",
+      "Integrity": "yxulg8ZD9P+fZC8in2khl+aSQRi50P45VtPDJQ4F3XI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
     },
     {
       "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\2qxm3lyxrg-37tfw0ft22.gz",
@@ -204,6 +225,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\7lpst002om-z4giugmkw0.gz",
+      "SourceId": "CopyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CopyApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme#[.{fingerprint=z4giugmkw0}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "sbsoqf11dj",
+      "Integrity": "mBSer7FdaAvWop/NPFQZJM+9A9MbSzQU2duc4/O0wdU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
     },
     {
       "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\80aeon3f7b-47otxtyo56.gz",
@@ -477,6 +519,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\e0lp3w4879-0z1um1b29w.gz",
+      "SourceId": "CopyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CopyApp",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint=0z1um1b29w}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "phrmihejw0",
+      "Integrity": "U/ULcL8qWcbrOonRkm2ly5CicuEPD3x40J7cCsHQLQM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
       "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\eg2nh9aw83-b7pk76d08c.gz",
@@ -857,6 +920,27 @@
       "OriginalItemSpec": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+      "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\l9cc4ie4zb-aoyfsirkoh.gz",
+      "SourceId": "CopyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CopyApp",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint=aoyfsirkoh}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "qfa0zh2oy5",
+      "Integrity": "KsS/8GTBAB+e9gsmA1Swpq7tBGSfuRQGJV41JULG6DI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
       "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\m15u1s6r2t-ausgxo2sd3.gz",
       "SourceId": "CopyApp",
       "SourceType": "Discovered",
@@ -1214,6 +1298,27 @@
       "OriginalItemSpec": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\wkoie3bqr7-hncdx5t4mz.gz",
+      "SourceId": "CopyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CopyApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min#[.{fingerprint=hncdx5t4mz}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2dshvjxjld",
+      "Integrity": "KtuFxuLY6GLnme+KRcpLwC+RKWhfI0k+3q+hMT1V3aI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
       "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\wv0noyjwqo-ag7o75518u.gz",
       "SourceId": "CopyApp",
       "SourceType": "Discovered",
@@ -1359,6 +1464,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\zz54bxu7iw-5wl60yermk.gz",
+      "SourceId": "CopyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CopyApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css#[.{fingerprint=5wl60yermk}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ocorc40h33",
+      "Integrity": "+O+8cUVG3E+hIxcx65KayTGlDvACIfQWbHHQooBdde0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
     },
     {
       "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CopyApp.styles.css",
@@ -1968,6 +2094,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "SourceId": "CopyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\",
+      "BasePath": "_content/CopyApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z4giugmkw0",
+      "Integrity": "zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "SourceId": "CopyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\",
+      "BasePath": "_content/CopyApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5wl60yermk",
+      "Integrity": "VRy4P+cTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "SourceId": "CopyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\",
+      "BasePath": "_content/CopyApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hncdx5t4mz",
+      "Integrity": "s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "SourceId": "CopyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\",
+      "BasePath": "_content/CopyApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kfyfhdxh97",
+      "Integrity": "8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
     },
     {
       "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
@@ -2703,6 +2913,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "CopyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\",
+      "BasePath": "_content/CopyApp",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0z1um1b29w",
+      "Integrity": "hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "CopyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\",
+      "BasePath": "_content/CopyApp",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aoyfsirkoh",
+      "Integrity": "SjFIhr8RtgJI7oFNPJ+4tJWjs1OzWtx8IAT6UoudRr0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
       "Identity": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
@@ -11366,6 +11618,1198 @@
         {
           "Name": "integrity",
           "Value": "sha256-/Cti7KtgK7n0FoWSWRMvmhTwGSxieEUp+Ao+6Xxnmug="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\7lpst002om-z4giugmkw0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000349406010"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2861"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mBSer7FdaAvWop/NPFQZJM+9A9MbSzQU2duc4/O0wdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.5wl60yermk.map",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\zz54bxu7iw-5wl60yermk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000139781940"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7153"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+O+8cUVG3E+hIxcx65KayTGlDvACIfQWbHHQooBdde0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VRy4P+cTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5wl60yermk"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VRy4P+cTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.5wl60yermk.map",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VRy4P+cTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5wl60yermk"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VRy4P+cTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.5wl60yermk.map.gz",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\zz54bxu7iw-5wl60yermk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+O+8cUVG3E+hIxcx65KayTGlDvACIfQWbHHQooBdde0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5wl60yermk"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+O+8cUVG3E+hIxcx65KayTGlDvACIfQWbHHQooBdde0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.gz",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\7lpst002om-z4giugmkw0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mBSer7FdaAvWop/NPFQZJM+9A9MbSzQU2duc4/O0wdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mBSer7FdaAvWop/NPFQZJM+9A9MbSzQU2duc4/O0wdU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.map",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\zz54bxu7iw-5wl60yermk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000139781940"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7153"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+O+8cUVG3E+hIxcx65KayTGlDvACIfQWbHHQooBdde0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VRy4P+cTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VRy4P+cTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.map",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VRy4P+cTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VRy4P+cTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.map.gz",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\zz54bxu7iw-5wl60yermk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+O+8cUVG3E+hIxcx65KayTGlDvACIfQWbHHQooBdde0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+O+8cUVG3E+hIxcx65KayTGlDvACIfQWbHHQooBdde0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\wkoie3bqr7-hncdx5t4mz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000358808755"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2786"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KtuFxuLY6GLnme+KRcpLwC+RKWhfI0k+3q+hMT1V3aI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.gz",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\wkoie3bqr7-hncdx5t4mz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2786"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KtuFxuLY6GLnme+KRcpLwC+RKWhfI0k+3q+hMT1V3aI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KtuFxuLY6GLnme+KRcpLwC+RKWhfI0k+3q+hMT1V3aI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.kfyfhdxh97.map",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\1jpm2l8ppm-kfyfhdxh97.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001017293998"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "982"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yxulg8ZD9P+fZC8in2khl+aSQRi50P45VtPDJQ4F3XI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfyfhdxh97"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.kfyfhdxh97.map",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfyfhdxh97"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.kfyfhdxh97.map.gz",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\1jpm2l8ppm-kfyfhdxh97.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yxulg8ZD9P+fZC8in2khl+aSQRi50P45VtPDJQ4F3XI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfyfhdxh97"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yxulg8ZD9P+fZC8in2khl+aSQRi50P45VtPDJQ4F3XI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\1jpm2l8ppm-kfyfhdxh97.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001017293998"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "982"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yxulg8ZD9P+fZC8in2khl+aSQRi50P45VtPDJQ4F3XI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map.gz",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\1jpm2l8ppm-kfyfhdxh97.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yxulg8ZD9P+fZC8in2khl+aSQRi50P45VtPDJQ4F3XI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yxulg8ZD9P+fZC8in2khl+aSQRi50P45VtPDJQ4F3XI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.hncdx5t4mz.css",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\wkoie3bqr7-hncdx5t4mz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000358808755"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2786"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KtuFxuLY6GLnme+KRcpLwC+RKWhfI0k+3q+hMT1V3aI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hncdx5t4mz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.hncdx5t4mz.css",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hncdx5t4mz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.hncdx5t4mz.css.gz",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\wkoie3bqr7-hncdx5t4mz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2786"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KtuFxuLY6GLnme+KRcpLwC+RKWhfI0k+3q+hMT1V3aI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hncdx5t4mz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KtuFxuLY6GLnme+KRcpLwC+RKWhfI0k+3q+hMT1V3aI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.z4giugmkw0.css",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\7lpst002om-z4giugmkw0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000349406010"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2861"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mBSer7FdaAvWop/NPFQZJM+9A9MbSzQU2duc4/O0wdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z4giugmkw0"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.z4giugmkw0.css",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z4giugmkw0"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.z4giugmkw0.css.gz",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\7lpst002om-z4giugmkw0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mBSer7FdaAvWop/NPFQZJM+9A9MbSzQU2duc4/O0wdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z4giugmkw0"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mBSer7FdaAvWop/NPFQZJM+9A9MbSzQU2duc4/O0wdU="
         }
       ]
     },
@@ -21580,6 +23024,602 @@
         {
           "Name": "integrity",
           "Value": "sha256-9X+6mMpWl0sRImYav09zbU/QCCt+GeH7cDib6C/z2lI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.0z1um1b29w.js",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\e0lp3w4879-0z1um1b29w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000214224507"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4667"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U/ULcL8qWcbrOonRkm2ly5CicuEPD3x40J7cCsHQLQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0z1um1b29w"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.0z1um1b29w.js",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0z1um1b29w"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.0z1um1b29w.js.gz",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\e0lp3w4879-0z1um1b29w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U/ULcL8qWcbrOonRkm2ly5CicuEPD3x40J7cCsHQLQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0z1um1b29w"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U/ULcL8qWcbrOonRkm2ly5CicuEPD3x40J7cCsHQLQM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\e0lp3w4879-0z1um1b29w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000214224507"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4667"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U/ULcL8qWcbrOonRkm2ly5CicuEPD3x40J7cCsHQLQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js.gz",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\e0lp3w4879-0z1um1b29w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U/ULcL8qWcbrOonRkm2ly5CicuEPD3x40J7cCsHQLQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U/ULcL8qWcbrOonRkm2ly5CicuEPD3x40J7cCsHQLQM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.aoyfsirkoh.js",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\l9cc4ie4zb-aoyfsirkoh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000448028674"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2231"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KsS/8GTBAB+e9gsmA1Swpq7tBGSfuRQGJV41JULG6DI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SjFIhr8RtgJI7oFNPJ+4tJWjs1OzWtx8IAT6UoudRr0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aoyfsirkoh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SjFIhr8RtgJI7oFNPJ+4tJWjs1OzWtx8IAT6UoudRr0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.aoyfsirkoh.js",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5874"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SjFIhr8RtgJI7oFNPJ+4tJWjs1OzWtx8IAT6UoudRr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aoyfsirkoh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SjFIhr8RtgJI7oFNPJ+4tJWjs1OzWtx8IAT6UoudRr0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.aoyfsirkoh.js.gz",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\l9cc4ie4zb-aoyfsirkoh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KsS/8GTBAB+e9gsmA1Swpq7tBGSfuRQGJV41JULG6DI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aoyfsirkoh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KsS/8GTBAB+e9gsmA1Swpq7tBGSfuRQGJV41JULG6DI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\l9cc4ie4zb-aoyfsirkoh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000448028674"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2231"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KsS/8GTBAB+e9gsmA1Swpq7tBGSfuRQGJV41JULG6DI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SjFIhr8RtgJI7oFNPJ+4tJWjs1OzWtx8IAT6UoudRr0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SjFIhr8RtgJI7oFNPJ+4tJWjs1OzWtx8IAT6UoudRr0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5874"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SjFIhr8RtgJI7oFNPJ+4tJWjs1OzWtx8IAT6UoudRr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SjFIhr8RtgJI7oFNPJ+4tJWjs1OzWtx8IAT6UoudRr0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js.gz",
+      "AssetFile": "C:\\Users\\andrija\\Documents\\CopyApp patrikov kum\\CopyApp\\obj\\Debug\\net9.0\\compressed\\l9cc4ie4zb-aoyfsirkoh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KsS/8GTBAB+e9gsmA1Swpq7tBGSfuRQGJV41JULG6DI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:06:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KsS/8GTBAB+e9gsmA1Swpq7tBGSfuRQGJV41JULG6DI="
         }
       ]
     },
