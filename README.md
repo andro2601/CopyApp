@@ -14,3 +14,7 @@ Testing DB info:
 Možete i lokalno testirat (VS ili VSCode) na https://localhost:7010
 
 Glavni branch nije main nego master !!!
+
+Za migraciju iz modela u bazu, otvorite Package Manager Console u VS-u i napišite:
+Add-Migration "{poruka}"
+Update-Database
